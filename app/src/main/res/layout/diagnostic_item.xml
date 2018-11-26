@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/diagnosticStaffRateLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <TextView
+            android:id="@+id/diagnosticStaffRateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Официант был неучтив"
+            android:layout_margin="8dp"
+            android:textSize="16sp"
+            android:layout_weight="1"/>
+    <ImageView
+            android:id="@+id/diagnosticStaffRateImageView"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:visibility="invisible"
+            android:src="@drawable/ic_check"
+            android:layout_gravity="center"/>
+</LinearLayout>

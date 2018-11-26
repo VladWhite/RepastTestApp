@@ -1,0 +1,196 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "title": "Троекуровъ",
+      "rate": "5",
+      "numOfVotes": "22",
+      "address": "ул. Малышева, д. 137, Екатеринбург 620049, Россия",
+      "phone": "+7 343 378-81-18",
+      "qrCode": "qrCode",
+      "photoUrl": "file:///android_asset/images/troekurov.jpg",
+      "reviewText": "Русская дворянская кухня возникла в стенах больших хлебосольных домов из традиций многовековой гастрономии нашей страны и классики французской кухни, которую завозили приглашенные заграничные повара. В современном Екатеринбурге эта атмосфера гостеприимства и высокого стиля воплощена в ресторане «Троекуровъ» — двухэтажном особняке на излете улицы Малышева.​",
+      "comments": [
+        {
+          "icon": "ucon_path",
+          "username": "ivanov",
+          "comment": "so good"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "petrov",
+          "comment": "not bad"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "svetlova",
+          "comment": "very nice!"
+        }
+      ],
+      "staff": [
+        {
+          "icon": "file:///android_asset/images/avatar1.jpg",
+          "username": "kurochkina",
+          "rate": "1",
+          "position": "waiter"
+        },
+        {
+          "icon": "file:///android_asset/images/avatar2.jpg",
+          "username": "lebedeva",
+          "rate": "0",
+          "position": "waiter"
+        },
+        {
+          "icon": "file:///android_asset/images/avatar3.jpg",
+          "username": "utkina",
+          "rate": "1",
+          "position": "waiter"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Вертикаль",
+      "rate": "3",
+      "numOfVotes": "13",
+      "address": "ул. Карла-Либнехта 20",
+      "phone": "+7 343 465-82-48",
+      "qrCode": "qrCode",
+      "photoUrl": "file:///android_asset/images/вертикаль.jpg",
+      "reviewText": "Самый высокий ресторан на Урале – это настоящая достопримечательность города Екатеринбурга! Город остался далеко внизу, а небо и облака совсем рядом. Отсюда хорошо любоваться закатами и наблюдать за полетом птиц. Белоснежный интерьер, изящные столики, хрустальные люстры, белый рояль – такой «воздушный» дизайн создает особенную атмосферу, наполненную сдержанной роскошью и романтикой. Изысканный стиль интерьера не будет отвлекать вас от завораживающего вида на город, открывающегося с высоты птичьего полета. В 2016 году ресторан стал в 2 раза больше и это позволяет нашим гостям увидеть полную панораму города. ",
+      "comments": [
+        {
+          "icon": "ucon_path",
+          "username": "ivanov",
+          "comment": "so good"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "petrov",
+          "comment": "not bad"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "svetlova",
+          "comment": "very nice!"
+        }
+      ],
+      "staff": [
+        {
+          "icon": "ucon_path",
+          "username": "kurochkina",
+          "rate": "1",
+          "position": "waiter"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "lebedeva",
+          "rate": "2",
+          "position": "waiter"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "utkina",
+          "rate": "3",
+          "position": "waiter"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Le Grad Cafe",
+      "rate": "4",
+      "numOfVotes": "10",
+      "address": "ул. Ленина 5",
+      "phone": "+7 343 125-51-51",
+      "qrCode": "qrCode",
+      "photoUrl": "file:///android_asset/images/Le Grad Cafe.jpg",
+      "reviewText": "Ресторан Le Grand Café создавался в течении 2 лет. По задумке, это место с интерьером сделанным вручную в стиле ultra glam, классической французской кухней в исполнении шефа француза и атмосферой ",
+      "comments": [
+        {
+          "icon": "ucon_path",
+          "username": "ivanov",
+          "comment": "so good"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "petrov",
+          "comment": "not bad"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "svetlova",
+          "comment": "very nice!"
+        }
+      ],
+      "staff": [
+        {
+          "icon": "ucon_path",
+          "username": "kurochkina",
+          "rate": "1",
+          "position": "waiter"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "lebedeva",
+          "rate": "2",
+          "position": "waiter"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "utkina",
+          "rate": "3",
+          "position": "waiter"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Панорама А.С.П",
+      "rate": "5",
+      "numOfVotes": "10",
+      "address": "ул. Ленина 5",
+      "phone": "+7 343 645-10-15",
+      "qrCode": "qrCode",
+      "photoUrl": "file:///android_asset/images/Панорама А.С.П.jpg",
+      "reviewText": "Ресторан Panorama ASP встречает гостей видом на свое сердце – кухню, позволяя созерцать гастрономический театр создания блюд. А вид из окон с высоты 50-го этажа небоскреба «Высоцкий» раскрывает город как на ладони из любой части зала. Начните утро с самого высокого завтрака на Урале, поднимитесь над повседневностью во время делового обеда, встретьте закат в романтической обстановке.",
+      "comments": [
+        {
+          "icon": "ucon_path",
+          "username": "ivanov",
+          "comment": "so good"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "petrov",
+          "comment": "not bad"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "svetlova",
+          "comment": "very nice!"
+        }
+      ],
+      "staff": [
+        {
+          "icon": "ucon_path",
+          "username": "kurochkina",
+          "rate": "1",
+          "position": "waiter"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "lebedeva",
+          "rate": "2",
+          "position": "waiter"
+        },
+        {
+          "icon": "ucon_path",
+          "username": "utkina",
+          "rate": "3",
+          "position": "waiter"
+        }
+      ]
+    }
+  ]
+}

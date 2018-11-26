@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottomMenuReview"
+          android:title="@string/bottomMenuReview"
+          android:icon="@drawable/ic_compass_inactive"/>
+    <item android:id="@+id/bottomMenuFavorite"
+          android:title="@string/bottomMenuFavorite"
+          android:icon="@drawable/ic_like_inactive"/>
+    <item android:id="@+id/bottomMenuProfile"
+          android:title="@string/bottomMenuProfile"
+          android:icon="@drawable/ic_person_inactive"
+    />
+</menu>

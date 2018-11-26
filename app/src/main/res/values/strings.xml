@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Repast Test App</string>
+    <string name="bottomMenuReview">Обзор</string>
+    <string name="bottomMenuFavorite">Избранное</string>
+    <string name="bottomMenuProfile">Профиль</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_favorites">FavoritesActivity</string>
+</resources>
